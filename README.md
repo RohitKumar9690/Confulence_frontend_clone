@@ -3,7 +3,8 @@
 This is a **frontend clone** of Confulence built using **React** and **Tailwind CSS**. This project replicates the user interface and features of confulence to practice web development skills and create a functional frontend clone but not fully funtional.
 
 #screenshot
-![Screenshot of the App]("C:\Users\rpal4\Pictures\Screenshots\Screenshot 2024-12-19 173341.png")
+![image](https://github.com/user-attachments/assets/ef39036b-03ad-4eeb-af9f-c08a6d528163)
+
 
 ## Features Implemented
 - **Modals**: A modal for inviting users, with integration for third-party services such as Google, Slack, and Microsoft.
