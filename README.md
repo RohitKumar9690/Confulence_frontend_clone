@@ -6,6 +6,7 @@ This is a **frontend clone** of Confulence built using **React** and **Tailwind 
 ![image](https://github.com/user-attachments/assets/ef39036b-03ad-4eeb-af9f-c08a6d528163)
 ![image](https://github.com/user-attachments/assets/c0e34433-afc2-4a96-ad8d-37d2346da0ec)
 ![image](https://github.com/user-attachments/assets/26220731-f4ca-434d-b3a9-17e7e0ecea1b)
+![image](https://github.com/user-attachments/assets/2f2e6114-1a5c-40b9-a14d-4e0359f68022)
 
 
 
